@@ -21,13 +21,13 @@ Replace IP with the IP address of your database server, user with your database 
 
 4 - Run the code. 
 
-The graphical user interface (GUI) allows users to add and update patient data, view patient histories, and access statistics. The back-end of the software is powered by a SQL database that stores all the patient data and history.
-
 # Contribution
 
 If you would like to contribute to the project, please fork the repository and make changes on your own branch. When you are ready, create a pull request for review.
 
 # Informations and screenshots 
+
+The graphical user interface (GUI) created using Windows Forms allows users to add and update patient data, view patient histories, and access statistics. The back-end of the software is powered by a SQL database that stores all the patient data and history.
 
 UML informations : https://amaador.com/cproject/
 
