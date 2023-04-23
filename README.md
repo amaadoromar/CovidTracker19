@@ -19,9 +19,15 @@ To use the software, follow these steps:
 
 Replace IP with the IP address of your database server, user with your database username, pass with your database password, and db with the name of the database  containing the Covid-19 patient data.
 
-Run the code. The graphical user interface (GUI) allows users to add and update patient data, view patient histories, and access statistics. The back-end of the software is powered by a SQL database that stores all the patient data and history.
-Contribution
+4 - Run the code. 
+
+The graphical user interface (GUI) allows users to add and update patient data, view patient histories, and access statistics. The back-end of the software is powered by a SQL database that stores all the patient data and history.
+
+# Contribution
+
 If you would like to contribute to the project, please fork the repository and make changes on your own branch. When you are ready, create a pull request for review.
+
+# Informations and screenshots 
 
 UML informations : https://amaador.com/cproject/
 
