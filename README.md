@@ -1,6 +1,6 @@
 # Covid-19 Patient Tracking Software
 
-This is a software project developed using UML design, C# programming, and SQL database management to create a Covid-19 patient tracking software. The software allows users to add new suspected Covid-19 patients, update their state based on test results, and maintain a history of each patient's status changes. Additionally, the software provides statistics on the number of confirmed cases, active cases, recovered cases, and deaths.
+This is a software project developed  as an academic project during January 2021 using UML design, C# programming, and SQL database management to create a Covid-19 patient tracking software. The software allows users to add new suspected Covid-19 patients, update their state based on test results, and maintain a history of each patient's status changes. Additionally, the software provides statistics on the number of confirmed cases, active cases, recovered cases, and deaths.
 
 # Usage
 
